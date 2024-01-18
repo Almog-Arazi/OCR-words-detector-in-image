@@ -4,6 +4,8 @@
 ## Project Overview
 The "Newspaper Text Extractor" is a state-of-the-art OCR (Optical Character Recognition) system developed to efficiently extract text from newspaper articles. Utilizing advanced image processing techniques with Python and OpenCV, this project identifies and extracts textual content, converting scanned newspaper images into editable and searchable text.
 
+https://www.aiismath.com/pages/c_02a_basic_image_processing/ex2/ -the course
+
 ## Features
 - **Advanced Text Detection**: Uses morphological operations and connected components to identify text regions in a newspaper article.
 - **Intelligent Segmentation**: Effectively handles various sizes of text, from large headlines to smaller article text.
